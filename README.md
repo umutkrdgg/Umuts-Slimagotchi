@@ -29,7 +29,7 @@
 - V1/2 displays uses 3.3V so use 3.3 pin of the pi (Desolder if your screen have a big socket on the middle)  
 - V3/4 displays uses 5V so use 5V pin of the pi
 
-<img src="Images/GPIO.jpg" width="300" />  <img src="Images/SCREEN.jpg" width="600" />  
+<img src="Images/GPIO.jpg" width="225" />  <img src="Images/SCREEN.jpg" width="450" />  
 
 &nbsp;
 
@@ -44,7 +44,7 @@
 Your Slimagotchi is ready!! To give it a life go [Jayofelony Guide](https://github.com/jayofelony/pwnagotchi/wiki/Step-1-Installation-for-raspberry-pi)
 
 
-<img src="Images/SLIMAGOTCHI.jpg" width="200" />  
+<img src="Images/SLIMAGOTCHI.jpg" width="700" />  
 
 ## Buy Me Pizza
 
