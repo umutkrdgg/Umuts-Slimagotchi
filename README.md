@@ -1,3 +1,6 @@
+# WHY?
+
+Easiest way to build pwnagotchi is just slamming e-ink display on top of a header installed RPI and call it a day but it is too easy and FAT to my likings so we are going to take the long way and Slim our little gotchi. 
 # Hardware 
 
 - Waveshare e-ink Display - There is a different versions of this Display. I am using V4. 
@@ -46,8 +49,18 @@ Your Slimagotchi is ready!! To give it a life go [Jayofelony Guide](https://gith
 
 <img src="Images/SLIMAGOTCHI.jpg" width="700" />  
 
+## Credits  
+
+- [Jayofelony](https://github.com/jayofelony/pwnagotchi)
+- [Pwn Wiki](https://pwnagotchi.org/index.html)
+- [Original Guide](https://pwnagotchi.ai/community/)
+- [mastblast09](https://x.com/mastblast09)
+
 ## Buy Me Pizza
 
 <a href="https://buymeacoffee.com/umutkrdg">
   <img src="https://www.seekpng.com/png/full/0-5990_pizza-slice-sticker-slice-of-pizza-cartoon.png" width="200">
 </a>
+
+<hr>
+<p align="center"><sub><sup>Written by umutkrdg and all rights reserved.</sup></sub></p>
